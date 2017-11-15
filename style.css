@@ -2,10 +2,11 @@
   background-image: url(http://unsplash.it/1000/500);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 400px;
-  padding-top: 300px;
+  height: 300px;
+  padding-top: 200px;
   text-align: center;
   color: white;
+  margin-bottom: 100px;
 }
 
 .banner h1, .banner h2 {
@@ -13,7 +14,7 @@
 }
 
 .banner h1 {
-  font-size:35px;
+  font-size:42px;
 }
 
 #green-hover-link {
@@ -31,6 +32,9 @@
 
 p {
   font-size: 21px;
+  margin-bottom: 50px;
+  font-family: 'Lora', serif;
+  line-height: 1.6;
 }
 
 .main-content h2 {
@@ -39,6 +43,6 @@ p {
 }
 
 .main-content {
-  padding: 0px 100px;
+  padding: 0px 200px;
   font-family: sans-serif;
 }
